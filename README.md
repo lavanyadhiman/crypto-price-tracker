@@ -60,6 +60,7 @@ src/
 │   ├── CryptoTable.jsx     # Main table for displaying crypto data
 │   ├── PriceChange.jsx     # Shows price change with color indicators
 │   └── MiniChart.jsx       # Tiny line chart for 7-day price trend
+│   └── DetailedAssetView.jsx       # Detailed view of respective assets
 ├── features/
 │   └── crypto/             # Domain logic for crypto prices
 │       ├── cryptoSlice.js      # Redux slice (actions & reducers)
