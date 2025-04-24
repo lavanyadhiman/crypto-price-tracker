@@ -53,6 +53,7 @@ npm run dev
 ---
 
 ## 🏗️ Architecture
+```text
 src/
 ├── app/                    # Store configuration (Redux setup)
 ├── components/             # Reusable UI components
@@ -66,6 +67,8 @@ src/
 ├── assets/                 # Static assets (e.g., crypto logos)
 ├── App.jsx                 # Root app component
 └── main.jsx                # Entry point (ReactDOM render)
+
+```
 ---
 
 
