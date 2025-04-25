@@ -2,7 +2,7 @@
 
 A real-time cryptocurrency price tracker built with **React**, **Redux Toolkit**, and **Recharts**, featuring a mock WebSocket for simulating live price updates.
 
-[Click here for Demo Video]('https://www.loom.com/share/1d1cb5a0bb454459ac2026c1bd97981e')  
+![Click here for Demo Video]('https://www.loom.com/share/1d1cb5a0bb454459ac2026c1bd97981e')  
 
 ---
 
